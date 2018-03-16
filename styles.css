@@ -1,1 +1,8 @@
-
+body,
+html {
+  padding: 0;
+  margin: 0;
+  font-size: 10px;
+  background: url(https://i.ytimg.com/vi/cVLlQpjuCns/maxresdefault.jpg);
+  background-size: cover;
+}
