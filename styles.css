@@ -1,8 +1,26 @@
 body,
 html {
+  background: url(https://i.ytimg.com/vi/cVLlQpjuCns/maxresdefault.jpg);
+  background-size: auto;
   padding: 0;
   margin: 0;
   font-size: 10px;
-  background: url(https://i.ytimg.com/vi/cVLlQpjuCns/maxresdefault.jpg);
-  background-size: cover;
+}
+
+.key {
+  display: inline-block;
+  color: white;
+  border: white 2px solid;
+  margin-left: 3rem;
+  width: 5%;
+  text-align: center;
+}
+
+kbd {
+  font-size: 24px;
+  display: block;
+}
+
+.sound {
+  font-size: 14px;
 }
