@@ -7,6 +7,13 @@ html {
   font-size: 10px;
 }
 
+.keys {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  text-align: center;
+}
+
 .key {
   display: inline-block;
   color: white;
